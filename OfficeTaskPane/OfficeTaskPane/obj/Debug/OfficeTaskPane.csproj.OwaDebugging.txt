@@ -1,0 +1,7 @@
+False
+dd28abe4-e4fb-4bbd-aa71-28e7500423944119fac7-56b1-4cd0-b9b9-ae1c2b9365b2
+{aab5b85f-d502-4116-93a2-83b434e8b34e}{a925c01b-a714-492e-b7bb-9db53dc772d1}
+{7faee13b-8978-4a3e-9399-652955a9a59a}
+1.0.0.0
+OfficeTaskPane
+_layouts/15/

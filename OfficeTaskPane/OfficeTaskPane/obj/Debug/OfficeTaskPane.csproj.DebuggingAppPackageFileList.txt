@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\OfficeTaskPaneManifest.xml
+E:\DotNetProj\OfficeTaskPane\OfficeTaskPane\bin\Debug\OfficeTaskPane.debugapp

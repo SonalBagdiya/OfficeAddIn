@@ -1,0 +1,12 @@
+E:\DotNetProj\OfficeTaskPane\OfficeTaskPane\bin\Debug\roslyn\csc.exe
+E:\DotNetProj\OfficeTaskPane\OfficeTaskPane\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DotNetProj\OfficeTaskPane\OfficeTaskPane\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DotNetProj\OfficeTaskPane\OfficeTaskPane\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\DotNetProj\OfficeTaskPane\OfficeTaskPane\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DotNetProj\OfficeTaskPane\OfficeTaskPane\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\DotNetProj\OfficeTaskPane\OfficeTaskPane\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DotNetProj\OfficeTaskPane\OfficeTaskPane\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\DotNetProj\OfficeTaskPane\OfficeTaskPane\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\DotNetProj\OfficeTaskPane\OfficeTaskPane\bin\Debug\roslyn\vbc.exe
+E:\DotNetProj\OfficeTaskPane\OfficeTaskPane\bin\Debug\roslyn\VBCSCompiler.exe
+E:\DotNetProj\OfficeTaskPane\OfficeTaskPane\bin\Debug\roslyn\VBCSCompiler.exe.config
